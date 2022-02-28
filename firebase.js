@@ -10,12 +10,12 @@ import 'firebase/compat/storage';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCsOyxxkFS-5srEoP65RCGd5ZVdj3sej_c",
-  authDomain: "nextjs-facebook-f7201.firebaseapp.com",
-  projectId: "nextjs-facebook-f7201",
-  storageBucket: "nextjs-facebook-f7201.appspot.com",
-  messagingSenderId: "298098619105",
-  appId: "1:298098619105:web:01147dd815c7a7259ebda0"
+ apiKey: "AIzaSyBGINGasL86p8SKcIj8y_pEql_-jXoMQIs",
+  authDomain: "amaz-2-2b33a.firebaseapp.com",
+  projectId: "amaz-2-2b33a",
+  storageBucket: "amaz-2-2b33a.appspot.com",
+  messagingSenderId: "466748259378",
+  appId: "1:466748259378:web:b0b67a7befc82b84b5502b"
 };
 
 // Initialize Firebase
